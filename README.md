@@ -46,8 +46,6 @@ project/
 5. Give green signal to emergency vehicle.
 6. Resume normal traffic operation.
 
-## 📸 Prototype
-(Add project images here)
 
 ## 📊 Future Improvements
 - Computer Vision using CCTV
